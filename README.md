@@ -1,5 +1,5 @@
 # Facial Emotion Recognition Faces Dataset
-Facial Emotion Recognition Faces Dataset! This dataset is all about understanding human emotions through facial expressions, making it a great resource for anyone, just like me that is interested in machine learning, AI, to work with.
+Facial Emotion Recognition Faces Dataset. This dataset is all about understanding human emotions through facial expressions, making it a great resource for anyone, just like me that is interested in machine learning, AI, to work with. I got this project from Kaggle: https://www.kaggle.com/datasets/tapakah68/facial-emotion-recognition/data
 
 What’s in the Dataset? This dataset contains images of people showing 7 different emotions:
 
