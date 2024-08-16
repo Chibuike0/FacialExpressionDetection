@@ -37,4 +37,5 @@ app.py is which were the streamlit app is and needs to run with for local deploy
 
 predict.py contains the code for prediction locally before deployment.
 
-models were saved in .pkl & .h5 for deployment.
+The models that were used for deployment were saved in .pkl & 
+.h5 which is beyond 25mb is attached to this google link (https://drive.google.com/file/d/1AN5RJGI6BDnuDQSX5GgnFP--58AJjNJD/view?usp=sharing)
